@@ -1,0 +1,2 @@
+# calculator_js
+javascriptの勉強を兼ねて，kindleの画面サイズに合わせたもの
